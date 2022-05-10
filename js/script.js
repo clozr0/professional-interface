@@ -18,7 +18,7 @@ window.onscroll = function(){
     if(scrollY >= 60){
         logo2.style.fontSize = 40 + "px";
         logo2.style.position = "fixed";
-        if(scrollY >= 438){
+        if(scrollY >= 428){
             logo2.style.display = "none";
         }
         else{
